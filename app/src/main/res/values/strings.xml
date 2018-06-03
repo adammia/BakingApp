@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cake Recepies</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_internet_connection">No internet connection, check connection and restart application.</string>
+    <string name="pass_recipe_in_intent">recipeData</string>
+    <string name="recipe_card_servings_content_description">Number of servings</string>
+    <string name="recipe_card_image_content_description">Image the finished recipe</string>
+    <string name="instance_state_save_pass_recipe">instanceStatePassRecipe</string>
+    <string name="pass_step_data_to_fragment_bundle">stepData</string>
+    <string name="no_passed_data">No passed data</string>
+    <string name="no_video_available">No video for this step.</string>
+    <string name="ingredients_button_text">Ingredients</string>
+    <string name="steps_button_text">Directions</string>
+   </resources>
